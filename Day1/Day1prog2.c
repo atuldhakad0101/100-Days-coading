@@ -16,7 +16,7 @@ int main()
 	return 0;
 }
 
-atul@atul-G15-1111:~/Desktop/c-language$ ./day1prog2.out
+/*atul@atul-G15-1111:~/Desktop/c-language$ ./day1prog2.out
 User enter two value48 12
 a=48 b=12
 sum=60,diff=36,product=576,quotient=4
