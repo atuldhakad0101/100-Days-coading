@@ -1,4 +1,4 @@
-/*Q4: Write a program to swap two numbers using third variable*/
+/*Q6: Write a program to swap two numbers using third variable*/
 
 #include<stdio.h>
 int main()
