@@ -1,4 +1,4 @@
-/* Q: Write a program to calculate area and perimeter of rectangle given its length and breadth.*/
+/* Q3: Write a program to calculate area and perimeter of rectangle given its length and breadth.*/
 
 #include<stdio.h>
 int main()
