@@ -1,4 +1,4 @@
-/*Q1: Write a program to convert temperature from celsius to fahrenheit.*/
+/*Q3: Write a program to convert temperature from celsius to fahrenheit.*/
 
 #include<stdio.h>
 int main()
