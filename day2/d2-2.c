@@ -1,4 +1,4 @@
-/*Q2: Write a program to calculate  the area and circumference of a circle given its radiuis.*/
+/*Q4: Write a program to calculate  the area and circumference of a circle given its radiuis.*/
 
 #include<stdio.h>
 int main()
